@@ -1,43 +1,78 @@
-# Hi there, I'm [Your Name]! 👋
+<h1 align="center">Hi 👋, I'm Dhinagar B</h1>
 
-### 👨‍💻 Full Stack Developer | Open Source Enthusiast | Tech Blogger
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Web+Developer;Full+Stack+Learner;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Things" />
+</p>
 
-I am a passionate developer who loves building tools that solve real-world problems. Currently, I'm focusing on **[Specific Technology, e.g., Cloud Architecture or React Ecosystem]**.
-
----
-
-### 🛠️ My Toolbox
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, JavaScript, TypeScript, Go |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, PostgreSQL, Redis |
-| **DevOps** | Docker, AWS, GitHub Actions |
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
-
----
-
-### 🔥 My Latest Projects
-
-* **[Project Name](Link)** - A brief one-sentence description of what this project does and why it's cool.
-* **[Project Name](Link)** - Another cool project using [Tech Stack].
+## 🚀 About Me
+- 🎓 Student & Web Technology Learner  
+- 🌱 Currently learning **React, Node.js, MongoDB**
+- 💡 Interested in **AI-powered Web Apps**
+- 🛠 Building real-world projects
 
 ---
 
-### 📫 How to reach me:
+## 🧠 Tech Stack
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-* **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
-* **Email:** [yourname@email.com](mailto:yourname@email.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,java,python,git,github,vscode" />
+</p>
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+## 📌 Projects
+- 🌾 **Farm Activity Management System**
+- 📚 **AI Study Pod Web App**
+- 💼 **Job Search & Recruitment Platform**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ <b>Thanks for visiting my profile!</b> ✨
+</p>

@@ -65,7 +65,7 @@
 ### 🧠 LeetCode Stats
 <p align="center">
   <a href="https://leetcode.com/u/dhinagar10/">
-    <img src="https://leetcode.com/u/dhinagar10/" />
+    <img src="https://leetcode.com/progress/" />
   </a>
 </p>
 

@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/dhinagar-b-624b7132a/" target="_blank">
     Dhinagar B
   </a>
 </h1>
